@@ -1,0 +1,22 @@
+
+body {
+    font-family: Arial;
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+
+.container {
+
+    background-color: white;
+    width: 400px;
+
+}
+
+#myButton {
+
+    background-color: #0ec2ad;
+}
